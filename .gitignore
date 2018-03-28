@@ -1,0 +1,8 @@
+/a0header.ps
+/auto
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+/*.pdf
+*.synctex.gz
